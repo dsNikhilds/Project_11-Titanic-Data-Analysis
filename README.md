@@ -23,4 +23,4 @@ B) Which was the location a passenger embarked from? and is there a relation bet
 
 C) Did the survival rate depend on whether the person was travelling alone or with family? If with family, these were the factors:
 1. Sibling
-2. 2. Parents.
+2. Parents.
