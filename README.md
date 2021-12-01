@@ -21,4 +21,6 @@ A) Did individual characteristics played any role in the survival rate? like:
 
 B) Which was the location a passenger embarked from? and is there a relation between the embarkment location and the class in which the passenger resided? Perhaps that may tell us something about that place's socio economic condition.
 
-C) Did the survival rate depend on whether the person was travelling alone or with family? If with family, these were the factors: 1. Sibling 2. Parents.
+C) Did the survival rate depend on whether the person was travelling alone or with family? If with family, these were the factors:
+1. Sibling
+2. 2. Parents.
